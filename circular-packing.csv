@@ -1,30 +1,30 @@
 region,subregion,country,pop,gdp
-CAF,Middle Africa,Cameroon,20386799,110.570898173279
-CAF,Western Africa,Ghana,24658823,196.05013251867499
-CAF,Northern Africa,Morocco,33087700,333.242868979042
-CAF,Western Africa,Senegal,13567338,64.8071610458899
-CAF,Northern Africa,Tunisia,10833431,138.356499712486
-CONMEBOL,South America,Argentina,40117096,1083.361763233
-CONMEBOL,South America,Brazil,201032714,3435.88215001929
-CONMEBOL,South America,Ecuador,15617900,208.600950803523
-CONMEBOL,South America,Uruguay,3286314,85.8234410029131
-AFC,Eastern Asia,Japan,127290000,5310.16952426111
-AFC,Western Asia,Qatar,2024707,274.248669907902
-AFC,Western Asia,Saudi Arabia,29994272,1751.17785864692
-UEFA,Western Europe,Belgium,11175653,688.480845299085
-UEFA,Southern Europe,Croatia,4290612,134.685972582603
-UEFA,Northern Europe,Denmark,5623501,378.863832299818
-UEFA,Western Europe,France,65806000,3455.86481638923
-UEFA,Western Europe,Germany,80523700,4849.56069522746
-UEFA,Western Europe,Netherlands,16807300,1117.8691471289599
-UEFA,Eastern Europe,Poland,38533299,1439.4802846540902
-UEFA,Southern Europe,Portugal,10562178,372.191603042675
-UEFA,Southern Europe,Serbia,7181505,147.94474006803298
-UEFA,Southern Europe,Spain,46704314,1925.1776103165
-UEFA,Western Europe,Switzerland,8085300,671.381288253731
-UEFA,Northern Europe,United Kingdom,63705000,3424.26159152777
-AFC,Australia and New Zealand,Australia,23254142,1437.17229745133
-CONCACAF,Northern America,Canada,35158304,2016.03836673246
-CONCACAF,Central America,Costa Rica,4667096,116.100281095227
-CONCACAF,Central America,Mexico,118395054,2480.6843563162797
-CONCACAF,Northern America,United States,317101000,22996.099999999897
+CAF,Middle Africa,Cameroon,20386799,110.57
+CAF,Western Africa,Ghana,24658823,196.05
+CAF,Northern Africa,Morocco,33087700,333.24
+CAF,Western Africa,Senegal,13567338,64.81
+CAF,Northern Africa,Tunisia,10833431,138.36
+CONMEBOL,South America,Argentina,40117096,1083.36
+CONMEBOL,South America,Brazil,201032714,3435.88
+CONMEBOL,South America,Ecuador,15617900,208.6
+CONMEBOL,South America,Uruguay,3286314,85.82
+AFC,Eastern Asia,Japan,127290000,5310.17
+AFC,Western Asia,Qatar,2024707,274.25
+AFC,Western Asia,Saudi Arabia,29994272,1751.18
+UEFA,Western Europe,Belgium,11175653,688.48
+UEFA,Southern Europe,Croatia,4290612,134.69
+UEFA,Northern Europe,Denmark,5623501,378.86
+UEFA,Western Europe,France,65806000,3455.86
+UEFA,Western Europe,Germany,80523700,4849.56
+UEFA,Western Europe,Netherlands,16807300,1117.87
+UEFA,Eastern Europe,Poland,38533299,1439.48
+UEFA,Southern Europe,Portugal,10562178,372.19
+UEFA,Southern Europe,Serbia,7181505,147.94
+UEFA,Southern Europe,Spain,46704314,1925.18
+UEFA,Western Europe,Switzerland,8085300,671.38
+UEFA,Northern Europe,United Kingdom,63705000,3424.26
+AFC,Australia and New Zealand,Australia,23254142,1437.17
+CONCACAF,Northern America,Canada,35158304,2016.04
+CONCACAF,Central America,Costa Rica,4667096,116.1
+CONCACAF,Central America,Mexico,118395054,2480.68
+CONCACAF,Northern America,United States,317101000,22996.1
